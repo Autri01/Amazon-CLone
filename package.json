@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Autri01,github.io/Amazon-Clone",
+  "homepage": "http://Autri01.github.io/Amazon-Clone",
   "name": "amazon-cone",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +23,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
