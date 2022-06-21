@@ -43,7 +43,7 @@ function App() {
         <Routes>
           <Route path="/checkout" element={[<Header />, <Checkout />]} />
           <Route path="/login" element={[<Login />]} />
-          <Route path="/Amazon-clone" element={[<Header />, <Home />]} />
+          <Route path="/" element={[<Header />, <Home />]} />
           <Route
             path="/payment"
             element={[
